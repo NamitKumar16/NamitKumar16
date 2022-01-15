@@ -59,6 +59,5 @@
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamitKumar16&theme=default" />
 </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namitkumar16&show_icons=true&title_color=fe428e&text_color=a9fef7&bg_color=141321&locale=en&layout=compact" alt="namitkumar16" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namitkumar16&" alt="namitkumar16" /></p>
 <br>
