@@ -50,7 +50,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kumarnamit58&compact=True&v=2"/>
 </a>
 <br>
-[![wakatime](https://wakatime.com/badge/user/77f25ed3-7ea2-45af-805a-870e019d75f6.svg)](https://wakatime.com/@77f25ed3-7ea2-45af-805a-870e019d75f6)
+<a href="https://wakatime.com/@77f25ed3-7ea2-45af-805a-870e019d75f6"><img src="https://wakatime.com/badge/user/77f25ed3-7ea2-45af-805a-870e019d75f6.svg" alt="Total time coded since Jan 15 2022" /></a>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="">
