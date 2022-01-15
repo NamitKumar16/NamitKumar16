@@ -54,11 +54,11 @@
 <a href="https://wakatime.com/@77f25ed3-7ea2-45af-805a-870e019d75f6"><img src="https://wakatime.com/badge/user/77f25ed3-7ea2-45af-805a-870e019d75f6.svg" alt="Total time coded since Jan 15 2022" /></a>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-<a href="">
+<a href="https://github.com/NamitKumar16?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NamitKumar16&count_private=true&show_icons=true&theme=default" />
 </a>
-<a href="">
+<a href="https://github.com/NamitKumar16?tab=repositories">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamitKumar16&theme=default" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namitkumar16&" alt="namitkumar16" /></p>
+<a href = "https://github.com/NamitKumar16?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namitkumar16&" alt="namitkumar16" /></a>
 <br>
