@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on Blog Project using Laravel
 
-- 🌱 I’m currently learning React & Flutter
+- 🌱 I’m currently learning Flutter
 
 - 👯 I’m looking to collaborate on Projects
 
