@@ -15,7 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Blog Project using Laravel
+- 🔭 I’m currently working on a Plant Ecommerce Project
 
 - 🌱 I’m currently learning Flutter
 
