@@ -2,7 +2,7 @@
 <img width="100%" height = "285px" src="https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height = 50px> </h1>
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=NamitKumar16&style=for-the-badge)
@@ -17,13 +17,13 @@
 
 - 🔭 I’m currently working on a Plant Ecommerce Project
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React
 
 - 👯 I’m looking to collaborate on Projects
 
 - 💬 Talk to me about HTML, CSS, JavaScript
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px height = 50px> </h2>
 <a href = "https://github.com/NamitKumar16?tab=repositories"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href = "https://github.com/NamitKumar16?tab=repositories"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href = "https://github.com/NamitKumar16?tab=repositories"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
@@ -43,7 +43,7 @@
   <a href = "https://github.com/NamitKumar16?tab=repositories"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
   <a href = "https://github.com/NamitKumar16?tab=repositories"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height = 80px> </h2>
 <a href = 'https://www.linkedin.com/in/namitkumar16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp&nbsp&nbsp 
 <a href = 'https://www.github.com/NamitKumar16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp&nbsp
   <a href = 'mailto: kumarnamit58@gmail.com'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
@@ -55,7 +55,7 @@
 <br>
 <br>
 <a href="https://wakatime.com/@77f25ed3-7ea2-45af-805a-870e019d75f6"><img src="https://wakatime.com/badge/user/77f25ed3-7ea2-45af-805a-870e019d75f6.svg" alt="Total time coded since Jan 15 2022" /></a>
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height = '32px'> </h2>
 
 <a href="https://github.com/NamitKumar16?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NamitKumar16&count_private=true&show_icons=true&theme=default" />
