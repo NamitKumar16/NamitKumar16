@@ -50,15 +50,6 @@
 <a href = 'https://www.github.com/NamitKumar16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp&nbsp
   <a href = 'mailto: kumarnamit58@gmail.com'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 
-<h2> Stuff I worked on last week   </h2>
-<a href="https://wakatime.com/@kumarnamit58">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kumarnamit58&compact=True"/>
-</a>
-<br>
-<br>
-<a href="https://wakatime.com/@77f25ed3-7ea2-45af-805a-870e019d75f6"><img src="https://wakatime.com/badge/user/77f25ed3-7ea2-45af-805a-870e019d75f6.svg" alt="Total time coded since Jan 15 2022" /></a>
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height = '32px'> </h2>
-
 <a href="https://github.com/NamitKumar16?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NamitKumar16&count_private=true&show_icons=true&theme=default" />
 </a>
