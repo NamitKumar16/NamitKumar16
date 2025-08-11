@@ -49,12 +49,3 @@
 <a href = 'https://www.linkedin.com/in/namitkumar16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp&nbsp&nbsp 
 <a href = 'https://www.github.com/NamitKumar16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp&nbsp
   <a href = 'mailto: kumarnamit58@gmail.com'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
-
-<a href="https://github.com/NamitKumar16?tab=repositories">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NamitKumar16&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/NamitKumar16?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamitKumar16&theme=default" />
-</a>
-<a href = "https://github.com/NamitKumar16?tab=repositories"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namitkumar16&" alt="namitkumar16" /></a>
-<br>
